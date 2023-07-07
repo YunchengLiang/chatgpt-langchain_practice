@@ -1,2 +1,2 @@
 # chatgpt-langchain_practice
-learn chatgpt and langchain frame work and practice work around it
+prompt engineering upon sample customer call data for more insights
